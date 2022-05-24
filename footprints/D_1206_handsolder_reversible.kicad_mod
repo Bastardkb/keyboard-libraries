@@ -1,6 +1,6 @@
 (footprint "D_1206_handsolder_reversible" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 62836C4D)
+  (tedit 628CEB7B)
   (descr "Diode SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
   (tags "diode handsolder")
   (attr smd)
@@ -53,9 +53,4 @@
   (pad "2" smd roundrect (at 1.4875 0) (size 1.425 1.75) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.175439) (tstamp 0c1301fd-7ebc-4e4b-bbd0-5d2d01e7305f))
   (pad "2" smd roundrect (at 1.4875 0) (size 1.425 1.75) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.175439) (tstamp 54f7515f-3369-4d4b-8c20-3d8c9205d753))
   (pad "2" thru_hole circle (at 2.2 0) (size 0.5 0.5) (drill 0.3) (layers *.Cu *.Mask) (tstamp de5a2861-d0e3-498e-8cad-067889035d95))
-  (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_1206_3216Metric.wrl"
-    (offset (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
 )

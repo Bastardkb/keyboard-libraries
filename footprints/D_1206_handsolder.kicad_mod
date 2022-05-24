@@ -1,6 +1,6 @@
 (footprint "D_1206_handsolder" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 628CD6FE)
+  (tedit 628CEB73)
   (descr "Diode SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
   (tags "diode handsolder")
   (attr smd)
@@ -49,9 +49,4 @@
   (fp_line (start -1.6 -0.4) (end -1.6 0.8) (layer "F.Fab") (width 0.1) (tstamp eec81df5-bc96-4abe-99dc-7e10dc32cb8d))
   (pad "1" smd roundrect (at -1.4875 0) (size 1.425 1.75) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.175439) (tstamp 7b9fd079-068e-4c4e-b188-84b8990060bb))
   (pad "2" smd roundrect (at 1.4875 0) (size 1.425 1.75) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.175439) (tstamp 54f7515f-3369-4d4b-8c20-3d8c9205d753))
-  (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_1206_3216Metric.wrl"
-    (offset (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
 )
